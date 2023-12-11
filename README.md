@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuelSRoble
 - 👀 I’m interested in web development and program creation
-- 🌱 I’m currently learning to program in python, c, pascal, html and css
+- 🌱 I’m currently learning to program in python, c, pascal, html, css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
